@@ -1,3 +1,5 @@
+# Converts video (MP4) files to Text (TXT) files
+
 # Import the necessary libraries
 
 import os
